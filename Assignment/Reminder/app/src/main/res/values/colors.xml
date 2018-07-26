@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#b53f62</color>
+    <color name="colorPrimaryDark">#b53f62</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!-- colors for task priority selection -->
+
+    <color name="Red">#f1d91400</color>
+    <color name="Orange">#ffb700</color>
+    <color name="BrightGreen">#88db00</color>
+    <color name="black">#000000</color>
+    <color name="teal">#008080</color>
+    <color name="pastelpurple">#d3c1ff</color>
+    <color name="pastelpink">#ffc8e1</color>
+    <color name="pastelblue">#b1f3ff</color>
+    <color name="pastelcoral">#ffb1b5</color>
+    <color name="fadinggreen">#f0fffb</color>
+    <color name="white">#ffffff</color>
+    <color name="PinkP">#f3ff4882</color>
+    <color name="B">#f575f4ff</color>
+    <color name="Grey">#f575f4ff</color>
+
+
+</resources>
