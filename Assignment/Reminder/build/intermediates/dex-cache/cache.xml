@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Program\AndroidApp\Reminder\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="d6c3d4de534fd3d94e7234490fa69b47eee70f30">
+        <dex dex="D:\Program\AndroidApp\Reminder\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3e660d75b78aaccafdcbfede1d4cec00004c3889\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Program\AndroidApp\Reminder\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\Program\AndroidApp\Reminder\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f52e6413a7ffdb4c6aadf7536c6fd8ea92b69832\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="D:\Program\AndroidApp\Reminder\app\build\intermediates\transforms\dex\debug\folders\1000\10\junit-4.12_6c16f77b0d7e305e5e115813524a3fc04c9e0f99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\3ecfa9138c437946e266150ed8ee1bd3e6127003\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="D:\Program\AndroidApp\Reminder\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_36e9d1ac2c706c3133d9b88c5253ff1b19cce99d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="D:\Program\AndroidApp\Reminder\app\build\intermediates\transforms\dex\debug\folders\1000\10\hamcrest-core-1.3_73185302ab6e16f4dc96f5f9ed67954ab1f34ba5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\a0d3941dd352853ecec8323e86919f62e94a9021\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="D:\Program\AndroidApp\Reminder\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f29aadfcee518c2b20b45fef24495cb7adb96079\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\d7e960f0336c47d1e34940afabf43536bf8deb71\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="D:\Program\AndroidApp\Reminder\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_68aaf09b4e6aba4252a0e089e39809933542e265\classes.dex" />
+    </item>
+
+</items>
